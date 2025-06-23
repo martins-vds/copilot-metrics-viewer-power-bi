@@ -125,8 +125,23 @@ In order to connect we'll need to generate a token and link to your metrics data
 6. On the **Report View** page click **Refresh** to load the new data into your dashboard.
 7. **Happy Customizing!**
 
+## Collect Feedback on GitHub Copilot Usage
+
+To better understand how GitHub Copilot is being used in your organization and to help determine accurate time and cost savings, we recommend collecting direct feedback from your developers. This information can be used to refine the values in the KPI dashboard and ensure your savings estimates reflect real-world usage.
+
+You can use the following Microsoft Forms template to gather feedback. Simply duplicate the form and customize it for your organization:
+
+[GitHub Copilot Usage Feedback – Microsoft Forms Template](https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR6zql0pB1xhIi5wwWWSq6RVUQ0JQSkZOMElYOFdHWUFWWVhPRllTQ1ZRUi4u&sharetoken=Gb49retb5qghvCQiQILO)
+
+Gathering this feedback will help you:
+- Validate or adjust the average weekly hour savings.
+- Understand adoption and satisfaction.
+- Support your ROI calculations with real user data.
+
+Feel free to adapt the form to include any additional questions relevant to your team.
+
 ## KPI - Savings Dashboard
-A new KPI tab has been added to the dashboard to help you estimate savings. The KPI tab is configured to display the potential time and case savings. You can configure the KPI tab to display these details by modifying the following fields in the `config` data sourcefrom the **Tabel view**:
+A new KPI tab has been added to the dashboard to help you estimate savings. The KPI tab is configured to display the potential time and cost savings. You can configure the KPI tab to display these details by modifying the following fields in the `config` data sourcefrom the **Tabel view**:
 
 | Name                       | Description                                      |
 | :------------------------- | :----------------------------------------------- |
