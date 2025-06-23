@@ -9,6 +9,7 @@ However, many organizations that we work with already have established Power BI 
 - [Metrics Dashboard Setup](#metrics-dashboard-setup)
   - [Connect to Metrics API](#connect-to-metrics-api)
   - [Connect to local JSON data source](#connect-to-local-json-data-source)
+- [Collect Feedback on GitHub Copilot Usage](#collect-feedback-on-github-copilot-usage)
 - [KPI - Savings Dashboard](#kpi---savings-dashboard)
 - [Publishing](#publishing)
 - [Maintainers](#maintainers)
@@ -129,7 +130,7 @@ In order to connect we'll need to generate a token and link to your metrics data
 
 To better understand how GitHub Copilot is being used in your organization and to help determine accurate time and cost savings, we recommend collecting direct feedback from your developers. This information can be used to refine the values in the KPI dashboard and ensure your savings estimates reflect real-world usage.
 
-You can use the following Microsoft Forms template to gather feedback. Simply duplicate the form and customize it for your organization:
+You can use the following **Microsoft Forms** template to gather feedback. Simply duplicate the form and customize it for your organization:
 
 [GitHub Copilot Usage Feedback – Microsoft Forms Template](https://forms.office.com/Pages/ShareFormPage.aspx?id=v4j5cvGGr0GRqy180BHbR6zql0pB1xhIi5wwWWSq6RVUQ0JQSkZOMElYOFdHWUFWWVhPRllTQ1ZRUi4u&sharetoken=Gb49retb5qghvCQiQILO)
 
