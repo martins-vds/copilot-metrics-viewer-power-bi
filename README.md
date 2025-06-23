@@ -142,7 +142,7 @@ Gathering this feedback will help you:
 Feel free to adapt the form to include any additional questions relevant to your team.
 
 ## KPI - Savings Dashboard
-A new KPI tab has been added to the dashboard to help you estimate savings. The KPI tab is configured to display the potential time and cost savings. You can configure the KPI tab to display these details by modifying the following fields in the `config` data sourcefrom the **Tabel view**:
+A new KPI tab has been added to the dashboard to help you estimate savings. The KPI tab is configured to display the potential time and cost savings. You can configure the KPI tab to display these details by modifying the following fields in the `config` data source from the **Table view**:
 
 | Name                       | Description                                      |
 | :------------------------- | :----------------------------------------------- |
